@@ -1,5 +1,5 @@
 public class GitDemo {
     public static void main(String[] args) {
-        System.out.println("leaearning git and github");
+        System.out.println("i am learning git");
     }
 }
